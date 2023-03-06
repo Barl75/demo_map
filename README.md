@@ -1,8 +1,8 @@
-# demo_map
+# demo_map - forked from GispoCoding/demo_map !
 
 This repository has been created for hosting an interactive map created with qgis2web plugin. Related to a blog post.
 
-You can take a look to the web page containing the embedded version of the interactive map at https://gispocoding.github.io/demo_map/ or jump right on to exploring the map at the full extent at https://gispocoding.github.io/demo_map/map.html
+You can take a look to the web page containing the embedded version of the interactive map at https://barl75.github.io/demo_map/ or jump right on to exploring the map at the full extent at Your site is live at https://barl75.github.io/demo_map/map.html
 
 Inspired greatly by https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/03-Publish-Your-Map.html#github-pages
 
